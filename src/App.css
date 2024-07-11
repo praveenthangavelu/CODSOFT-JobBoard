@@ -1,0 +1,29 @@
+body{
+  background-color:black  ;
+}
+.moda {
+  font-family: "Bodoni Moda SC", serif;
+  font-optical-sizing: auto;
+  font-weight: 600; /* Example weight, can be any value between 400 and 900 */
+  font-style: normal;
+}
+
+
+.sans {
+  font-family: "Shantell Sans", cursive;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-variation-settings:
+    "BNCE" 0,
+    "INFM" 0,
+    "SPAC" 0;
+}
+body::-webkit-scrollbar {
+  display: none; /* Hides the scrollbar */
+}
+
+
+.inputField::placeholder {
+  font-size: 1.25rem; /* Adjust the font size as needed */
+}
