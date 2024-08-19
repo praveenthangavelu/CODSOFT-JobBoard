@@ -5,7 +5,7 @@ const Footer = () => {
     <div className="grid grid-cols-3 my-5">
         <div className='flex items-center  justify-center'>
     <a href="#" className="flex items-center justify-center mb-5 text-2xl font-semibold text-white">
-        KABIVIRUZ
+        Real Estate
     </a>
         </div>
                     

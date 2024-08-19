@@ -203,7 +203,7 @@ const Home = () => {
         <div className='text-center '>
           <h1 className='text-6xl font-thin sans text-white z'>Find  <span className='text-[#37A3C3]'>Opportunities</span>, Forge Your Path.</h1>
           <h1 className='text-6xl font-thin sans text-white mt-5'> Shape Your<span className='text-[#37A3C3]'>Future</span> .</h1>
-        <p className='text-lg font-medium  text-white mt-14 '>Let Us Help You Find A Job That Suit You The Best!</p>
+        <p className='text-lg font-medium  text-white mt-14 '>Let Us Help You Find A Home That Suit You The Best!</p>
         </div>
         </div>
         <div className='  flex justify-center text-center space-x-10'>
@@ -214,7 +214,7 @@ const Home = () => {
             <div className='relative z-10 flex justify-center flex-row'>
               <div className='text-white  mt-16  px-14 py-1'>
                 <p className='text-sm text-center font-extrabold text-[#37A3C3]'>100+</p>
-                <p className='text-3xl font-bold'>Jobs</p>
+                <p className='text-3xl font-bold'>Home</p>
 
               </div>
               <div className='text-white  mt-16  px-14 py-1'>

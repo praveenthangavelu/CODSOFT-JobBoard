@@ -28,7 +28,7 @@ const Company = () => {
               </div>
               </div>
           </div>
-          <div className='mt-5 mx-auto'> 
+          {/* <div className='mt-5 mx-auto'> 
             <h1 className='sans  text-center text-white text-4xl'>Work with Exciting 100+ <span className='text-[#37A3C3]'>Companies</span>in the World</h1>
             <div className='grid my-10 grid-cols-5 mx-40'>
                 <div className='px-5 py-7 w text-white mx-auto'><img src={Notion} alt="" /></div>
@@ -54,7 +54,7 @@ const Company = () => {
                 </div>
 
             </div>
-          </div>
+          </div> */}
          
       </div>
     </div>
